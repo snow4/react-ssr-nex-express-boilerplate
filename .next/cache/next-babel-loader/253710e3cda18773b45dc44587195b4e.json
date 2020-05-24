@@ -1,0 +1,1 @@
+{"ast":null,"code":"export default {\n  homepage: {}\n};","map":{"version":3,"sources":["/home/snow/Desktop/Office Projects/SNOW PROJECT/react-ssr-nex-express-boilerplate/redux/initialState.js"],"names":["homepage"],"mappings":"AAAA,eAAe;AACbA,EAAAA,QAAQ,EAAE;AADG,CAAf","sourcesContent":["export default {\n  homepage: {}\n};\n"]},"metadata":{},"sourceType":"module"}

@@ -1,0 +1,1 @@
+{"ast":null,"code":"export default {\n  homepage: {}\n};","map":{"version":3,"sources":["/home/snow/Desktop/Office Projects/SNOW PROJECT/example/redux/initialState.js"],"names":["homepage"],"mappings":"AAAA,eAAe;AACXA,EAAAA,QAAQ,EAAE;AADC,CAAf","sourcesContent":["export default {\n    homepage: {}\n  };\n  "]},"metadata":{},"sourceType":"module"}
