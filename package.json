@@ -15,7 +15,7 @@
   "dependencies": {
     "body-parser": "^1.19.0",
     "emotion-server": "^10.0.27",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "http": "0.0.1-security",
     "http-proxy-middleware": "^1.0.4",
     "keymirror": "^0.1.1",
